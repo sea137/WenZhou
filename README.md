@@ -39,6 +39,6 @@
 
 ## 许可与来源
 
-文舟基于 [AI Novel Writer / Pagekin](https://github.com/EthanYoQ/AI-Novel-Writer) 开源工程重构，按 **GNU GPL v3** 分发。见 [LICENSE](LICENSE) 和 [WENZHOU-NOTICES.md](WENZHOU-NOTICES.md)。用户自行创作的小说不因使用本软件而自动适用GPL。
+文舟基 **GNU GPL v3** 分发。见 [LICENSE](LICENSE) 和 [WENZHOU-NOTICES.md](WENZHOU-NOTICES.md)。用户自行创作的小说不因使用本软件而自动适用GPL。
 
 本仓库用于版本分发、说明与反馈，不同步开发仓库历史。每个可下载程序版本的完整对应源码随该版本Release提供，构建说明与依赖锁文件包含在源码包中。第三方依赖许可随安装包提供。
