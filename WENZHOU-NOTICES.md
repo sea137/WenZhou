@@ -1,9 +1,5 @@
 # 海京·文舟 0.23.0-beta.2
 
-海京·文舟是基于 Pagekin / AI Novel Writer 开源工程基础重构的本地写作桌面软件。本版本由海京与 Codex 协作开发，2026-10-27 修改了桌面入口、数据存储、写作与作品管理界面、打包身份和发布方式。未启用原项目的模型调用流程。
-
-上游项目：https://github.com/EthanYoQ/AI-Novel-Writer
-
 本衍生项目按 GNU GPL v3 分发；保留根目录 LICENSE。对应源码应随本地交付一并提供。用户自行创作的小说不因使用本软件而自动适用 GPL。
 
 本地界面使用 React、CodeMirror 和 Lucide 图标；具体依赖许可证随软件保存在 licenses 目录。字体使用操作系统已有字体，没有额外捆绑商业字体。
