@@ -20,4 +20,4 @@
 KF8/AZW3、HUFF/CDIC压缩MOBI及受保护电子书暂不支持；复杂SVG合成页面可能无法完整还原。使用及升级前请保留自己的作品备份。
 
 ### 许可
-本软件按GNU GPLv3分发，保留AI Novel Writer / Pagekin上游及依赖声明，完整对应源码见上述source.zip附件。安装包不包含用户书稿、密钥、小说或漫画测试全文。AI功能需自行配置模型API，手机版与小说配音不属于此版本。
+本软件按GNU GPLv3分发，完整对应源码见上述source.zip附件。
